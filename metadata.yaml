@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34753
     wikipedia: http://en.wikipedia.org/wiki/Rog_Phillips
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26936#The-Gallery
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-10-16'
 gutenberg_type: Text
